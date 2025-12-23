@@ -163,7 +163,7 @@ Software-Project/
 │
 ├── 📂 static/               # Images, CSS, JavaScript
 │   ├── css/                # Styling
-│   ├── js/                 # Interactive features
+│                  
 │   └── images/             # Pictures
 │
 ├── 📂 tests/                # Automated tests
