@@ -14,7 +14,7 @@ Flask | Python | SQLite | MVC | Pytest | Docker
 - Automated testing with Pytest
 
 ## How to Run
-git clone https://github.com/Bassant-27/HomeCraft-Ecommerce.git
-cd HomeCraft-Ecommerce
-pip install -r requirements.txt
-python main.py
+- git clone https://github.com/Bassant-27/HomeCraft-Ecommerce.git
+- cd HomeCraft-Ecommerce
+- pip install -r requirements.txt
+- python main.py
